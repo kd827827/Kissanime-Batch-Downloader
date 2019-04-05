@@ -3,7 +3,7 @@
 
 // CONFIG
 var siteName = "Kissanime"
-var rootUrl = 'http://kissanime.ru'
+var rootUrl = 'http://kissanime.si'
 var URL = window.location.origin
 // END CONFIG
 
